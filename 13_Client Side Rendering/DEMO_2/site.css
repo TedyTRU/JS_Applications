@@ -1,0 +1,28 @@
+body {
+    width: 500px;
+    margin: auto;
+    font-size: 24px;
+}
+
+article {
+    margin: 32px 0;
+    box-shadow: 0 0 15px 5px #999;
+    padding: 32px;
+}
+
+article footer {
+    color: #999;
+
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}

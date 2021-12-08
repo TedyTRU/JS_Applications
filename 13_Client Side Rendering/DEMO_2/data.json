@@ -1,0 +1,21 @@
+[
+    {
+        "title": "First Article",
+        "content": "Test na Jorko",
+        "author": "Jorko Jorkov",
+        "color": "red"
+    },
+    {
+        "title": "Second Article",
+        "content": "Test na Ivan",
+        "author": "Ivan Ivanov",
+        "color": "blue",
+        "disabled": "true"
+    },
+    {
+        "title": "Third Article",
+        "content": "Test na Gosho",
+        "author": "Gosho Goshev",
+        "color": "yellow"
+    }
+]
